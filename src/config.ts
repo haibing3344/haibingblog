@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'Hex',
   // 作者头像
-  Avatar: '/assets/images/doge.jpep',
+  Avatar: '/assets/images/doge.png',
   // 网站座右铭
   Motto: '运气是计划之外的东西.',
   // Cover 网站缩略图
@@ -23,7 +23,7 @@ export default {
     "I am making progress in the time I haven't shared with you.",
   ],
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2025-07-30',
   // 顶部 Banner 配置
   HomeBanner: {
     enable: true,
@@ -58,7 +58,7 @@ export default {
     { text: '昔日', link: '/archives', icon: 'Nav_archives' },
     { text: '留言', link: '/message', icon: 'Nav_message' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
-    { text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
+    { text: '机场推荐', link: 'https://jichangtuijian.uk', target: true, icon: 'Nav_link' },
   ],
   // 侧边栏个人网站
   WebSites: [
